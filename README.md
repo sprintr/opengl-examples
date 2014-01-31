@@ -8,22 +8,25 @@ How to use
 2. Create a new empty project in Microsoft Visual Studio.
 > File -> New -> Project -> Visual C++, General -> Empty Project
 3. Add a new source file.
-4. Paste the code from one of the source files and runFiles
------
-1. [OpenGL-SquareInsideSqaure.cpp]()
-2. [OpenGL-Square.cpp]()
-3. [OpenGL-Quadratic-Equation.cpp]()
-4. [OpenGL-Parabola-Curve.cpp]()
-5. [OpenGL-MouseClick.cpp]()
-6. [OpenGL-Menu.cpp]()
-7. [OpenGL-FloodFill-Square.cpp]()
-8. [OpenGL-FloodFill-Circle.cpp]()
-9. [OpenGL-Clock.cpp]()
-10. [OpenGL-BoundaryFill-Square.cpp]()
-11. [OpenGL-BoundaryFill-Circle.cpp]()
+4. Paste the code from one of the source files and run
 
-### Explaination
-1. [OpenGL-Explaination.md]()
+Files
+-----
+1. [OpenGL-SquareInsideSqaure.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-SquareInsideSqaure.cpp)
+2. [OpenGL-Square.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Square.cpp)
+3. [OpenGL-Quadratic-Equation.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Quadratic-Equation.cpp)
+4. [OpenGL-Parabola-Curve.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Parabola-Curve.cpp)
+5. [OpenGL-MouseClick.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-MouseClick.cpp)
+6. [OpenGL-Menu.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Menu.cpp)
+7. [OpenGL-FloodFill-Square.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-FloodFill-Square.cpp)
+8. [OpenGL-FloodFill-Circle.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-FloodFill-Circle.cpp)
+9. [OpenGL-Clock.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Clock.cpp)
+10. [OpenGL-BoundaryFill-Square.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-BoundaryFill-Square.cpp)
+11. [OpenGL-BoundaryFill-Circle.cpp](https://github.com/beingaminullah/opengl/blob/master/OpenGL-BoundaryFill-Circle.cpp)
+
+Explaination
+------------
+1. [OpenGL-Explaination.md](https://github.com/beingaminullah/opengl/blob/master/OpenGL-Explaination.md)
 
 Licence
 -------
