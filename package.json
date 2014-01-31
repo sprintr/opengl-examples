@@ -1,0 +1,19 @@
+{
+  "name": "OpenGL",
+  "version": "1.0.0",
+  "description": "OpenGL Example Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beingaminullah/opengl"
+  },
+  "keywords": [
+    "OpenGL",
+    "GLUT"
+  ],
+  "author": "Amin Ullah Khah <aminullah@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beingaminullah/opengl/issues"
+  },
+  "homepage": "https://github.com/beingaminullah/opengl"
+}
