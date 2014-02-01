@@ -6,7 +6,9 @@ How to use
 ----------
 1. Install GLUT
 2. Create a new empty project in Microsoft Visual Studio.
-> File -> New -> Project -> Visual C++, General -> Empty Project
+```
+	File -> New -> Project -> Visual C++, General -> Empty Project
+```
 3. Add a new source file.
 4. Paste the code from one of the source files and run
 
