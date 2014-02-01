@@ -10,6 +10,10 @@ How to use
 3. Add a new source file.
 4. Paste the code from one of the source files and run
 
+Warning
+-------
+The color fill examples causes a stackover flow, if you use it to fill a large object. Create a small object to fill.
+
 Files
 -----
 **Square, Diagnal Square**
