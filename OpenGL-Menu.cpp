@@ -19,8 +19,6 @@
 #include <gl/glut.h>
 #include <math.h>
 
-#pragma comment(linker, "/main:mainCRTStartup /SUBSYSTEM:WINDOWS")
-
 struct Point {
 	GLint x;
 	GLint y;
