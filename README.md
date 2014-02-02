@@ -14,7 +14,7 @@ How to use
 
 Warning
 -------
-The color fill examples cause a stackover flow, if you use it to fill a large object. Create a small object to fill.
+The color fill examples cause a stack overflow, if you use it to fill a large object. Create a small object to fill.
 
 Files
 -----
