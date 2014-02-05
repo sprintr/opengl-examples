@@ -31,7 +31,6 @@ void draw_circle(Point pC, GLfloat radius) {
 
 
 Point pCenter = {320, 240};
-//float radius = 0;
 float dRadius = 1;
 
 float radius[3] = {
