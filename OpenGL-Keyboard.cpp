@@ -79,7 +79,6 @@ void onKeyboard(unsigned char key, int x, int y) {
 			break;
 	}
 
-	// Stay in your limits, or I will kill you.
 	if(p.x > 640) {
 		p.x = 0;
 	}
